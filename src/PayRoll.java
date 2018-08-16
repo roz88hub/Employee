@@ -17,7 +17,7 @@ public class PayRoll {
 			salaryCal =(employee.getSalary() * employee.getHours() *3);
 		}
 		else {
-			salaryCal = 0.00;
+			salaryCal = 0.00; 
 		}
 		return salaryCal;
 	

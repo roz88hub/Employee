@@ -137,7 +137,7 @@ public class Employee {
 	void compareSalary(Employee another){
 		
 		if(this.salary > another.salary){
-			System.out.println(this.name + " has high salary than " + another.name);
+			System.out.println(this.name + " has high salary than " + another.name); 
 		}
 	}
 	
